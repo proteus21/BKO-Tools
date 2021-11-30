@@ -12,6 +12,9 @@ File is protected by the password to edit. Password "Szymek"
 ![BKTools GUI-6](https://user-images.githubusercontent.com/94799210/144129486-e14c0c37-714a-4c94-85e7-cdbf38cbded9.png)
 ![BKTools GUI-7](https://user-images.githubusercontent.com/94799210/144129489-a95f6cf0-1590-4fd2-bd58-20ef038a098f.png)
 
-## Add file to macro folder
+## Add file to macro directory
+
+Inventor's "Macros" directory: C:\Users\Public\Documents\Autodesk\Inventor xxxx\Macros\ 
+Where xxxx is the issue of software
 
 
