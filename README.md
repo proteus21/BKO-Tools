@@ -17,4 +17,5 @@ File is protected by the password to edit. Password "Szymek"
 Inventor's "Macros" directory: C:\Users\Public\Documents\Autodesk\Inventor xxxx\Macros\ 
 Where xxxx is the issue of software
 
-
+Aplication currently is developing.
+Alpha version, checked by testers in company.
