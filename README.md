@@ -1,4 +1,4 @@
-# BKO -Tools
+# BKO -Tools v.1.0
 
 This is  a dedicated sets of macros, which  is written in VBA INVENTOR. Main goal was improve existed function of  Inventor 2021 software in XXX Company .
 File is protected by the password to edit. Password "Szymek"
